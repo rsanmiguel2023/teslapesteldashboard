@@ -1,9 +1,3 @@
-Good — then we’ll keep it **clean, professional, and dashboard-focused** (no mention of visuals folder).
-
-Here is your **final copy-paste README** 👇
-
----
-
 # Tesla and the Electric Vehicle Revolution: PESTEL Dashboard Analysis
 
 End-to-end data analytics case study analyzing Tesla’s product development and market performance using the PESTEL framework, supported by interactive dashboards and data-driven insights.

@@ -156,6 +156,3 @@ This project demonstrates:
 * Application of analytics in a real-world industry context
 
 ---
-
-If you want next:
-👉 I can give you **the exact repo name, tags, and description to maximize recruiter visibility**
